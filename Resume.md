@@ -16,9 +16,9 @@ To work with maximum  potential in a challenging and dynamic environment, with a
 ## TECHNICAL SKILLS
 - Programming Language : C ,C++,C#
 - Web Design Language&nbsp;&nbsp; : HTML , CSS
-- Scripting Language &nbsp;&nbsp; &nbsp;&nbsp;   : PHP
--	Database  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: SQL (Oracle, SQL Server)
--	Tools Exposure  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;  : Turboc , Xampp , Visual Studio
+- Scripting Language &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;   : PHP
+-	Database  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: SQL (Oracle, SQL Server)
+-	Tools Exposure  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;  : Turboc , Xampp , Visual Studio
 ## AREAS OF INTEREST
 - Theory of Computation
 -	Database Management System
