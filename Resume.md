@@ -24,19 +24,24 @@ To work with maximum  potential in a challenging and dynamic environment, with a
 -	Database Management System
 # CO-CURRICULAR ACTIVITIES
 * **PROJECTS**
-+ Title : Digital Record  
+    + Title : Digital Record  
    Front-End            : HTML,CSS  
     Back-End             : MySQL,PHP
-+ Title : Pharmacy Management System  
+    + Title : Pharmacy Management System  
   Front-End            : Visual Basic  
   Back-End             : Microsoft Access
 * **ACHIEVEMENTS**
-- IIIrd prize in project presentation contest at COGNOBLAZE ,a National level technical symposium at ACCET on 25th Feb,2019.  
--	Ist prize in coding contest at COGNOBLAZE ,a National level technical symposium at ACCET on 25th Feb,2019.  
--	Participated in Paper presentation On Transaction Management in Ramco College of Engineering and  Technology on 12th Aug,2017.
+    - IIIrd prize in project presentation contest at COGNOBLAZE ,a National level technical symposium at ACCET on 25th Feb,2019.  
+    -	Ist prize in coding contest at COGNOBLAZE ,a National level technical symposium at ACCET on 25th Feb,2019.  
+    -	Participated in Paper presentation On Transaction Management in Ramco College of Engineering and  Technology on 12th Aug,2017.
 * **WORKSHOP**
-+	Certification of participation in “MongoDB  Hands On” workshop  at Velammal College of Engineering and Technology on September 16, 2017.  
-+	Certification of participation in “Hands on workshop on IOT Technology” by TEXAS INSTRUMENTS ” at Velammal College of Engineering and Technology on January 2, 2018.  
-+	Certification of participation in Android Technologies workshop Chapter at Velammal College of Engineering and Technology on February 24-25th, 2018.
+    +	Certification of participation in “MongoDB  Hands On” workshop  at Velammal College of Engineering and Technology on September 16, 2017.  
+    +	Certification of participation in “Hands on workshop on IOT Technology” by TEXAS INSTRUMENTS ” at Velammal College of Engineering and Technology on January 2, 2018.  
+    +	Certification of participation in Android Technologies workshop Chapter at Velammal College of Engineering and Technology on February 24-25th, 2018.
 # PERSONAL DETAILS:
+Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    GAYATHREE  K  
+Father’s name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   KANNAN G  
+Date Of Birth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   24-07-1999  
+Languages Known&nbsp;&nbsp;&nbsp;&nbsp; TAMIL,ENGLISH  
+GitHub Id&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	www.github.com/Gayathree-kannan
 
