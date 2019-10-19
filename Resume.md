@@ -15,21 +15,21 @@ To work with maximum  potential in a challenging and dynamic environment, with a
 | SSLC |Sairam Matriculation  Higher Secondary  School  | 2014  |  99.2|
 ## TECHNICAL SKILLS
 - Programming Language : C ,C++,C#
-- Web Design Language  : HTML , CSS
-- Scripting Language   : PHP
--	Database             : SQL (Oracle, SQL Server)
--	Tools Exposure       : Turboc , Xampp , Visual Studio
+- Web Design Language&nbsp;&nbsp; : HTML , CSS
+- Scripting Language &nbsp;&nbsp; &nbsp;&nbsp;   : PHP
+-	Database  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: SQL (Oracle, SQL Server)
+-	Tools Exposure  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;  : Turboc , Xampp , Visual Studio
 ## AREAS OF INTEREST
 - Theory of Computation
 -	Database Management System
 # CO-CURRICULAR ACTIVITIES
 * **PROJECTS**
-    + Title : Digital Record  
+    + Title &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Digital Record  
    Front-End            : HTML,CSS  
-    Back-End             : MySQL,PHP
-    + Title : Pharmacy Management System  
+    Back-End        &nbsp;   : MySQL,PHP
+    + Title &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Pharmacy Management System  
   Front-End            : Visual Basic  
-  Back-End             : Microsoft Access
+  Back-End         &nbsp; : Microsoft Access
 * **ACHIEVEMENTS**
     - IIIrd prize in project presentation contest at COGNOBLAZE ,a National level technical symposium at ACCET on 25th Feb,2019.  
     -	Ist prize in coding contest at COGNOBLAZE ,a National level technical symposium at ACCET on 25th Feb,2019.  
