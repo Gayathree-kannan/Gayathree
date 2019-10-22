@@ -22,11 +22,14 @@ To work with maximum  potential in a challenging and dynamic environment, with a
 ## AREAS OF INTEREST
 -	Database Management System
 # CO-CURRICULAR ACTIVITIES
-* **PROJECTS**
-    + **Title** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Digital Record  
-   **Front-End**            : HTML,CSS  
+* **PROJECTS**  
+    + **Project #1**    
+    **Title** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Digital Record  
+     **Front-End**            : HTML,CSS  
     **Back-End**        &nbsp;   : MySQL,PHP
-    + **Title** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Pharmacy Management System  
+    
+    + **Project #2**   
+    **Title** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Pharmacy Management System  
   **Front-End**            : Visual Basic  
   **Back-End**         &nbsp; : Microsoft Access
 * **ACHIEVEMENTS**
