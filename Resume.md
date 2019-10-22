@@ -33,8 +33,8 @@ To work with maximum  potential in a challenging and dynamic environment, with a
   **Front-End**            : Visual Basic  
   **Back-End**         &nbsp; : Microsoft Access
 * **ACHIEVEMENTS**
-    -  Ist prize in coding contest at COGNOBLAZE ,a National level technical symposium at ACCET on 25th Feb,2019.
-    -	IIIrd prize in project presentation contest at COGNOBLAZE ,a National level technical symposium at ACCET on 25th Feb,2019.     
+    -  Ist prize in **coding contest** at COGNOBLAZE ,a National level technical symposium at ACCET on 25th Feb,2019.
+    -	IIIrd prize in **project presentation** contest at COGNOBLAZE ,a National level technical symposium at ACCET on 25th Feb,2019.     
     -	Participated in Paper presentation **On Transaction Management** in Ramco College of Engineering and  Technology on 12th Aug,2017.
 * **WORKSHOP**
     +	Certification of participation in **“MongoDB  Hands On”** workshop  at Velammal College of Engineering and Technology on September 16, 2017.  
